@@ -1,0 +1,94 @@
+#searchPackages {
+  text-align: center;
+  background: url("../img/background.jpg");
+}
+
+#collapsibleNavbar a {
+  color: black;
+  text-decoration: none;
+}
+
+#collapsibleNavbar li:hover {
+  color: black;
+  border-bottom: 2px solid black;
+}
+
+#collapsibleNavbar li .active {
+  border-bottom: 2px solid black;
+}
+
+#collapsibleNavbar ul li {
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+#contactImage {
+  width: 50px;
+  height: 50px;
+}
+
+#account {
+  text-align: center;
+}
+
+.rightNavBar i {
+  padding: 0; 
+}
+
+.rightNavBar a {
+  padding: 0; 
+}
+
+#inputGroup {
+  margin-top: 8px;
+}
+
+.jumbotron {
+  background: url("../img/background.jpg");
+  color: white;
+  height: 300px; 
+}
+
+#trendingHolidayDestinations {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.tourPackagesIndia {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.tourPackagesIndia img {
+  width: 300px;
+  height: 250px;
+  margin-top: 24px;
+}
+
+.tourPackagesInternational {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.tourPackagesInternational img {
+  width: 300px;
+  height: 250px;
+  margin-top: 24px;
+}
+
+.customisedPackages {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+#address {
+  text-align: justify;
+}
+
+#icons img{
+  width: 20px;
+  height: 20px;
+}
